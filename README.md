@@ -9,6 +9,11 @@ A simple full-stack project that converts Celsius to Fahrenheit using:
 
 This project demonstrates basic backend–frontend communication using a Python HTTP server and a web interface with AI GENERATIVE (COPILOT).
 
+
+![Screenshot]([https://raw.githubusercontent.com/seuusuario/seurepo/main/images/screenshot.png](https://github.com/Maycol-Mohr/projeto-AI-Conversor_temperatura/blob/main/images/conversor_tempe.jpeg))
+
+
+
 ---
 
 ## 🚀 Features
