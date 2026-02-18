@@ -116,3 +116,7 @@ Basic CORS handling
 Author
 
 Maycol Michel Mohr and AI Generative with Prompt Engineering (COPILOT).
+
+
+
+
